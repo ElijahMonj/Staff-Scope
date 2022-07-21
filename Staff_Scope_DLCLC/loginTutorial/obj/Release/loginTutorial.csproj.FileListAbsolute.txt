@@ -1,0 +1,29 @@
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\bin\Release\dbtest.mdf
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\bin\Release\dbtest_log.ldf
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\bin\Release\itextsharp.dll
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.calendar.resources
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.change.resources
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.Form1.resources
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.leave.resources
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.logrecords.resources
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.Properties.Resources.resources
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.registerForm.resources
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.reset.resources
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.staff.resources
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.staff2.resources
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.staffsched.resources
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.wholetable.resources
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.csproj.GenerateResource.cache
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.csproj.CopyComplete
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\bin\Release\Staff Scope.exe.config
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\bin\Release\Staff Scope.exe
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\bin\Release\Staff Scope.pdb
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\Staff Scope.exe
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\Staff Scope.pdb
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\bin\Release\Staff Scope.exe.manifest
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\bin\Release\Staff Scope.application
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\Staff Scope.exe.manifest
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\Staff Scope.application
+C:\Users\Elijah\source\repos\loginTutorial\loginTutorial\obj\Release\loginTutorial.csprojAssemblyReference.cache
